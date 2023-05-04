@@ -1,0 +1,9 @@
+body {
+    color: white;
+    background-color: #262626;
+    font-size: 14px;
+}
+
+.menu-links.active {
+    background-color: #0c4dde
+}
